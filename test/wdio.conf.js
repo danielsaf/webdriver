@@ -134,7 +134,7 @@ exports.config = {
     reporters: ['dot', 'allure'],
     reporterOptions: {
         junit: {
-            outputDir: 'allure-results'
+            outputDir: './allure-results'
         }
     },
     //
