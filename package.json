@@ -26,6 +26,9 @@
     "wdio-jasmine-framework": "^0.2.6",
     "wdio-junit-reporter": "^0.1.0",
     "wdio-mocha-framework": "^0.4.3",
-    "webdriverio": "^3.4.0"
+    "webdriverio": "^3.4.0",
+    "wdio-spec-reporter": "0.0.3",
+    "wdio-sauce-service": "^0.2.4",
+    "wdio-selenium-standalone-service": "0.0.6"
   }
 }
